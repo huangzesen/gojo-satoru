@@ -74,6 +74,7 @@ version: 1.0
 |------|------|----------|
 | `methods/behavioral-patterns.md` | 日常行为模式卡片 | 模拟日常互动时 |
 | `methods/combat-patterns.md` | 战斗决策模式卡片 | 模拟战斗决策时 |
+| `methods/technique-deep-dive.md` | 咒术体系深度解析（无下限·苍·赫·芟·无量空处·六眼·反转术式） | 需要精确讨论术式细节时 |
 
 ### 参考索引
 
